@@ -1,5 +1,3 @@
-Below is a README you can place directly in your project as `README.md`.
-
 # Prompt Engineering Comparison Demo
 
 A Python demonstration that compares **vague prompts** with **well-engineered prompts** and shows how additional context, constraints, roles, examples, and formatting requirements can affect the quality and consistency of an LLM response.
